@@ -31,4 +31,4 @@ async def l_isten(ctx):
 async def ping(ctx):
     await ctx.send("Pong!")
 
-client.run("MTA1NjEyODE4NjY1NzgyMDY4Mg.G7b03z.zysbjUjtCqYIlGQdBpU2ZmmUtccaf_JYyzbTak")
+client.run("bottoken")
